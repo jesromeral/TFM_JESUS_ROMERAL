@@ -1,0 +1,16 @@
+{
+    "LogisticRegression": {
+        "C": 0.01,
+        "solver": "liblinear"
+    },
+    "RandomForest": {
+        "max_depth": 3,
+        "min_samples_leaf": 50,
+        "n_estimators": 300
+    },
+    "HistGradientBoosting": {
+        "learning_rate": 0.1,
+        "max_depth": 10,
+        "min_samples_leaf": 50
+    }
+}

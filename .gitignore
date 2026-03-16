@@ -1,0 +1,21 @@
+# Entorno virtual
+venv_dl/
+.venv/
+venv_tfm/
+
+# NO subir estos datos
+datosv2/
+memoria/
+BIBLIOGRAFIA/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema Mac
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+pruebas/
+
