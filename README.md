@@ -1,3 +1,17 @@
+## Key Results
+
+- Sentiment improves LSTM performance in short-term prediction (1-day horizon)
+- Machine Learning models benefit more from sentiment in longer horizons (5-day)
+- More complex sentiment features do not always improve results (FULL vs SIMPLE)
+
+## Project Highlights
+
+- End-to-end Data Science project (data → modeling → evaluation)
+- Comparison between ML and Deep Learning approaches
+- Use of NLP (FinBERT) for financial sentiment analysis
+- Time-series validation avoiding data leakage
+  
+
 # S&P 500 Direction Prediction using Machine Learning and Deep Learning
 
 This project is based on my Master's Thesis in Artificial Intelligence, where I analyze whether incorporating sentiment extracted from financial news improves the prediction of the S&P 500 index direction.
